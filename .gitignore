@@ -1,0 +1,8 @@
+hw/fp-info-cache
+/sw/EWSTM8/settings
+/sw/EWSTM8/STM8L15X_MD(STM8L15xx4_6)
+hw/sym-lib-table
+hw/fp-lib-table
+sw/EWSTM8/project.ewd
+sw/EWSTM8/project.ewt
+sw/EWSTM8/project.dep
